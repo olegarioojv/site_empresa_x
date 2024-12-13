@@ -33,3 +33,8 @@ _Melhoria 1_, Melhoria 2
 ### Imagem local
 
 ![Logo do Python](img/python.png)
+
+
+#### Imagem externa
+
+![Logo do CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png)
