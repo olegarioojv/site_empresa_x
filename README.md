@@ -41,4 +41,4 @@ _Melhoria 1_, Melhoria 2
 
 ### Link interessantes:
 
-[Google](www.google.com)
+[Google](https://google.com)
