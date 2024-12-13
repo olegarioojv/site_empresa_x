@@ -1,4 +1,8 @@
-# site_empresa_x
-Este é um site de exemplo para a empresa X, feito em PHP e MySQL
+# Web site empresa X
 
-# Teste
+Vamos criar um web site para a empresa X e blablaa
+
+
+## Funcionalidade: 
+
+Checkout, Tela do produto, Catálogo, home com banner
